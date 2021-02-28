@@ -2,7 +2,7 @@
 	Hi there! 
 	<img 
         src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" 
-        width="20px"
+        width="30px"
     >
 	, I'm Yesman
 </h1>
