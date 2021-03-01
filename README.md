@@ -1,3 +1,4 @@
+ 
 <h1 align="center">
 	Hi there! 
 	<img 
@@ -11,63 +12,34 @@
 	A programming student focused on improving more every day
 </h3>
 
-<h4>
+<h4 align="center">
     🌱 Technologies that I’m currently learning:
 </h4>
 
-- React <img 
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" 
-            alt="react" 
-            width="20" 
-            height="20"
-        />
+<p align="center">
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"></code>   
+</p>
 
-- HTML  <img 
-			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" 
-			alt="html5"  
-			width="20" 
-			height="20"
-		/>
+<p align="center">
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"></code>
+</p>
 
- - CSS  <img 
-			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" 
-			alt="css3"  
-			width="20" 
-			height="20"
-		/>
-		
- - JavaScript   <img 
-                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" 
-                    alt="javascript" 
-                    width="20" 
-                    height="20"
-                />
-
-
-- NodeJS    <img 
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" 
-                alt="nodejs" 
-                width="20" 
-                height="20"
-            />
-      
-- MySQL         <img 
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" 
-                alt="mysql" 
-                width="20" 
-                height="20"
-            />
-  
-- MongoDB   <img 
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" 
-                alt="nodejs" 
-                width="20" 
-                height="20"
-            />
-            
+<p align="center">
+	<img 
+		src="https://github-readme-stats.vercel.app/api/top-langs/?username=yesmanic&layout=compact&theme=dracula" 
+		alt="Yesman"
+	/>
+</p>   
 <p align="center">
 	<img 
 		src="https://github-readme-stats.vercel.app/api?username=yesmanic&show_icons=true&theme=dracula" 
 		alt="Yesman"
-	/> 
-</p>            
+	/>
+</p>
+  
