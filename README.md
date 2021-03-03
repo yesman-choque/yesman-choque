@@ -1,4 +1,3 @@
- 
 <h1 align="center">
 	Hi there! 
 	<img 
@@ -12,9 +11,9 @@
 	A programming student focused on improving more every day
 </h3>
 
-<h4 align="center">
-    🌱 Technologies that I’m currently learning:
-</h4>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yesmanic&layout=compact&theme=dracula" />
+
+<h4 align="center">Technologies I've been focusing on:</h4>
 
 <p align="center">
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
@@ -30,16 +29,11 @@
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"></code>
 </p>
 
-<p align="center">
-	<img 
-		src="https://github-readme-stats.vercel.app/api/top-langs/?username=yesmanic&layout=compact&theme=dracula" 
-		alt="Yesman"
-	/>
-</p>   
+# >
+
 <p align="center">
 	<img 
 		src="https://github-readme-stats.vercel.app/api?username=yesmanic&show_icons=true&theme=dracula" 
 		alt="Yesman"
 	/>
 </p>
-  
