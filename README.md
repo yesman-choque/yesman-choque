@@ -8,7 +8,7 @@
 </h1>
 
 <h3 align="center">
-	A programming student focused on improving more every day
+	<i>A programming student focused on improving more every day.</i>
 </h3>
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yesmanic&layout=compact&theme=dracula" />
@@ -30,7 +30,6 @@
 </p>
 
 # >
-
 <p align="center">
 	<img 
 		src="https://github-readme-stats.vercel.app/api?username=yesmanic&show_icons=true&theme=dracula" 
