@@ -29,7 +29,7 @@
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"></code>
 </p>
 
-#### > sudo |
+#### $ sudo |
 <p align="center">
 	<img 
 		src="https://github-readme-stats.vercel.app/api?username=yesmanic&show_icons=true&theme=dracula" 
