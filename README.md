@@ -21,7 +21,7 @@
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"></code>   
 </p>
 
-#### $ sudo |
+#### $ sudo apt update && sudo apt full-upgrade -y
 <p align="center">
 	<img 
 		src="https://github-readme-stats.vercel.app/api?username=yesmanic&show_icons=true&bg_color=0D1117&hide_border=true&title_color=FFFFFF&text_color=FFFFFF" 
