@@ -18,13 +18,6 @@
 <p align="center">
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"></code>   
-</p>
-
-#### $ sudo apt update
-<p align="center">
-	<img 
-		src="https://github-readme-stats.vercel.app/api?username=yesmanic&show_icons=true&bg_color=0D1117&hide_border=true&title_color=FFFFFF&text_color=FFFFFF" 
-		alt="Yesman"
-	/>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"></code>  
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></code>  
 </p>
