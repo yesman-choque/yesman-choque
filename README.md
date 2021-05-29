@@ -8,7 +8,7 @@
 </h1>
 
 <h3 align="center">
-	<i>A programming student focused on improving more every day.</i>
+	<i>A programming student focused on improving more every week.</i>
 </h3>
 
 <img 
