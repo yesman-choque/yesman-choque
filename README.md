@@ -13,7 +13,7 @@
 
 <img 
 	align="right" 
-	src="https://github-readme-stats.vercel.app/api/top-langs/?username=yesmanic&layout=compact&bg_color=0D1117&hide_border=true&title_color=FFFFFF&text_color=FFFFFF" 
+	src="https://github-readme-stats.vercel.app/api/top-langs/?username=yesmanic&bg_color=00000000&hide_border=true&title_color=82AAFF&text_color=82AAFF&hide=typescript,css,html,scss&layout=compact" 
 />
 
 <h4 align="center">Technologies I've been focusing on:</h4>
