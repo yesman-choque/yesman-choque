@@ -19,7 +19,7 @@
 <h4 align="center">Technologies I've been focusing on:</h4>
 
 <p align="center">
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></code>
