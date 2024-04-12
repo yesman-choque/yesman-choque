@@ -1,10 +1,11 @@
+<img src="./images/header.svg">
+
 <h1 align="left">
   Hi there! 
   <img 
         src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" 
         width="30px"
     >
-    I'm Yesman
 </h1>
 
 I'm currently studying Computer Science at IME-USP in São Paulo, Brazil. At the moment, I'm working on a research project about Software Engineering for Machine Learning. I'm also participating in the committee responsible for the Computer Science Week at IME-USP.
