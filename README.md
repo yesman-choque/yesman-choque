@@ -12,7 +12,7 @@ I'm currently studying Computer Science at IME-USP in São Paulo, Brazil. At the
 
 <img 
   align="right" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=yesmanic&bg_color=00000000&hide_border=true&title_color=82AAFF&text_color=82AAFF&hide=typescript,css,html,scss,jupyter%20notebook&layout=compact"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=yesman-choque&bg_color=00000000&hide_border=true&title_color=82AAFF&text_color=82AAFF&hide=typescript,css,html,scss,jupyter%20notebook&layout=compact"
 />
 
 <h4 align="center">Technologies I've been focusing on:</h4>
